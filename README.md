@@ -22,7 +22,7 @@ npm i -g sass
 
 3. Now to watch the changes in main style.scss, use following command.
 ```bash
-sass --watch style.scss style.css
+sass --watch style/main.scss:style.css
 ```
 
 4. Run the server
